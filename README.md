@@ -6,7 +6,7 @@ I created a LineEditor that allows a person to edit text by deleting a character
 
 ### Structures Used
 
-- [X] Nodes
+-  Nodes
 - [X] Linked Lists
 - [X]Linked Stack
 - [X] Binary Search
