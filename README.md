@@ -7,11 +7,11 @@ I created a LineEditor that allows a person to edit text by deleting a character
 ### Structures Used
 
 -  Nodes
-- [X] Linked Lists
-- [X]Linked Stack
-- [X] Binary Search
-- [X] Bubble Sort
-- [X] Windows Position
+-  Linked Lists
+-  Linked Stack
+-  Binary Search
+-  Bubble Sort
+-  Windows Position
 
 ### LineEditor functions
 - [X] 1. The user can move the cursor up, down, left and right.
